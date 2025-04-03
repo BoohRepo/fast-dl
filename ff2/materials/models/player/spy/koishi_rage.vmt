@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/spy/koishi_rage"
+	"$translucent" 1
+	"$ignorez"     "1"
+	"$no_fullbright" "1"	
+}
