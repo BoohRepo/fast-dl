@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "freak_fortress_2\duke_nukem\cigar"
+	"$bumpmap" "freak_fortress_2\duke_nukem\cigar_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$alphatest" "1"
+	"$selfillum" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[.1 2 5]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "0.3"
+	"$rimlightexponent" "5"	
+	"$rimlightboost" "0.15"
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+
+	}	
+}
